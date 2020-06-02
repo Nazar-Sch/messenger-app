@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/messenger-app/static/css/main.ab9658ff.chunk.css",
+    "main.js": "/messenger-app/static/js/main.dbc182e8.chunk.js",
+    "main.js.map": "/messenger-app/static/js/main.dbc182e8.chunk.js.map",
+    "runtime-main.js": "/messenger-app/static/js/runtime-main.8b0a021a.js",
+    "runtime-main.js.map": "/messenger-app/static/js/runtime-main.8b0a021a.js.map",
+    "static/js/2.7fe93077.chunk.js": "/messenger-app/static/js/2.7fe93077.chunk.js",
+    "static/js/2.7fe93077.chunk.js.map": "/messenger-app/static/js/2.7fe93077.chunk.js.map",
+    "index.html": "/messenger-app/index.html",
+    "precache-manifest.c0125792ac7f242c479640c5a77b36cb.js": "/messenger-app/precache-manifest.c0125792ac7f242c479640c5a77b36cb.js",
+    "service-worker.js": "/messenger-app/service-worker.js",
+    "static/css/main.ab9658ff.chunk.css.map": "/messenger-app/static/css/main.ab9658ff.chunk.css.map",
+    "static/js/2.7fe93077.chunk.js.LICENSE.txt": "/messenger-app/static/js/2.7fe93077.chunk.js.LICENSE.txt",
+    "static/media/alice.webp": "/messenger-app/static/media/alice.0016bc58.webp",
+    "static/media/bareira.webp": "/messenger-app/static/media/bareira.30f622fa.webp",
+    "static/media/checked.svg": "/messenger-app/static/media/checked.5098214d.svg",
+    "static/media/josefiena.webp": "/messenger-app/static/media/josefiena.3df665c5.webp",
+    "static/media/me.webp": "/messenger-app/static/media/me.20bdba7b.webp",
+    "static/media/searchIcon.svg": "/messenger-app/static/media/searchIcon.2150318f.svg",
+    "static/media/sendIcon.svg": "/messenger-app/static/media/sendIcon.f1f16c14.svg",
+    "static/media/velazzquez.webp": "/messenger-app/static/media/velazzquez.37ff2bac.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b0a021a.js",
+    "static/js/2.7fe93077.chunk.js",
+    "static/css/main.ab9658ff.chunk.css",
+    "static/js/main.dbc182e8.chunk.js"
+  ]
+}
